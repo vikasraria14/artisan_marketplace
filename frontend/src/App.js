@@ -18,7 +18,7 @@ import AllOrders from "./components/Admin/Orders/Orders"
 import AllProducts from "./components/Admin/ProductAdmin/AllProducts"
 import AddProduct from "./components/AddProduct/AddProduct";
 import "bootstrap/dist/css/bootstrap.min.css";
-import image from "./a.jpg"
+
 //import Portfolio from "./components/Landing/Portfolio"
 export const config = {
   endpoint: `http://localhost:8082/api/v1`,
