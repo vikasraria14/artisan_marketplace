@@ -69,7 +69,7 @@ const OrdersAdmin = (props) => {
       sortable: true,
     },
     {
-      name: "Service",
+      name: "Product",
       selector: (row) => row.label,
       id: "make",
       sortable: true,

@@ -58,7 +58,7 @@ const ProductAdmin = (props) => {
   const columns = [
     
     {
-      name: "Service Name",
+      name: "Product Name",
       selector: (row) => row.label,
       id: "name",
       sortable: true,

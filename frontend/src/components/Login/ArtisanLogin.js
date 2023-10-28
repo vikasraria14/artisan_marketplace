@@ -96,7 +96,7 @@ const Login = () => {
       <Header hasHiddenAuthButtons />
       <Box className="content">
         <Stack spacing={2} className="form">
-          <h2 className="title">Service ProviderLogin</h2>
+          <h2 className="title">Artisan Login</h2>
           <TextField
             id="username"
             label="Username"

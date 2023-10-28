@@ -17,8 +17,8 @@ const ServiceInfoAdmin = ({
     "new",
     "accepted",
     
-    "out for service",
-    "completed"
+    "out for Delivery",
+    "Delivered"
   ]
   const [currentStatus, setCurrentStatus] = useState(serviceForm.currentStatus);
   
