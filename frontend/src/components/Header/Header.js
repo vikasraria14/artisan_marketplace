@@ -128,10 +128,10 @@ const Header = ({ children, hasHiddenAuthButtons }) => {
             <Button variant="contained" onClick={routeToRegister}>
               Register
             </Button>
-            <Button onClick={routeToServiceProviderLogin}>Login as Service Provider</Button>
+            <Button onClick={routeToServiceProviderLogin}>Login as Artisan</Button>
 
             <Button variant="contained" onClick={routeToServiceProviderRegister}>
-              Register as Service Provider
+              Register as Artisan
             </Button>
             <Button onClick={routeToAdminLogin}>Admin Login</Button>
 

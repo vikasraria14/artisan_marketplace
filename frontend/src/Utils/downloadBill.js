@@ -16,8 +16,8 @@ doc.setFont("helvetica");
 let y = 50;
 
 // Add company logo
-doc.addImage(logo, "PNG", 140, 10, 50, 50);
-
+// doc.addImage(logo, "PNG", 140, 10, 50, 50);
+doc.addImage(logo, "PNG", 125, 10, 75, 50);
 // Add company name and address
 doc.setFontSize(12);
 doc.text("Artisan Marketplace", 10, y);
